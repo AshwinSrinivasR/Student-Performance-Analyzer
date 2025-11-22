@@ -1,6 +1,6 @@
 # 🎓 Student Performance Analyzer
 
-A Python project that analyzes student marks using **Pandas** and visualizes performance using **Matplotlib**.  
+A Python project that analyzes student marks using Core Python. 
 Perfect beginner–intermediate project for learning data analysis.
 
 ## ✨ Features
@@ -12,13 +12,11 @@ Perfect beginner–intermediate project for learning data analysis.
 
 ## 📁 Tech Used
 - Python  
-- Pandas  
-- Matplotlib  
-
+  
 ## ▶️ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/student-performance-analyzer.git
+   git clone https://github.com/AshwinSrinivasR/student-performance-analyzer.git
    cd student-performance-analyzer
 
 2. Install dependencies:
